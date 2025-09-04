@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "rank": 50,
+    "artist": "Jay-Z",
+    "releaseYear": 2001,
+    "genre": "Hip-Hop",
+    "albumTitle": "The Blueprint"
+  },
+  {
+    "id": 2,
+    "rank": 49,
+    "artist": "OutKast",
+    "releaseYear": 1998,
+    "genre": "Hip-Hop",
+    "albumTitle": "Aquemini"
+  },
+  {
+    "id": 3,
+    "rank": 48,
+    "artist": "Bob Marley and the Wailers",
+    "releaseYear": 1977,
+    "genre": "Reggae",
+    "albumTitle": "Exodus"
+  },
+  {
+    "id": 4,
+    "rank": 47,
+    "artist": "Ramones",
+    "releaseYear": 1976,
+    "genre": "Punk Rock",
+    "albumTitle": "Ramones"
+  },
+  {
+    "id": 5,
+    "rank": 46,
+    "artist": "Paul Simon",
+    "releaseYear": 1986,
+    "genre": "World Music",
+    "albumTitle": "Graceland"
+  },
+  {
+    "id": 6,
+    "rank": 45,
+    "artist": "Prince",
+    "releaseYear": 1987,
+    "genre": "Pop",
+    "albumTitle": "Sign O’ the Times"
+  },
+  {
+    "id": 7,
+    "rank": 44,
+    "artist": "Nas",
+    "releaseYear": 1994,
+    "genre": "Hip-Hop",
+    "albumTitle": "Illmatic"
+  },
+  {
+    "id": 8,
+    "rank": 43,
+    "artist": "A Tribe Called Quest",
+    "releaseYear": 1991,
+    "genre": "Hip-Hop",
+    "albumTitle": "The Low End Theory"
+  },
+  {
+    "id": 9,
+    "rank": 42,
+    "artist": "Radiohead",
+    "releaseYear": 1997,
+    "genre": "Alternative Rock",
+    "albumTitle": "OK Computer"
+  },
+  {
+    "id": 10,
+    "rank": 41,
+    "artist": "The Rolling Stones",
+    "releaseYear": 1969,
+    "genre": "Rock",
+    "albumTitle": "Let It Bleed"
+  },
+  {
+    "id": 11,
+    "rank": 40,
+    "artist": "David Bowie",
+    "releaseYear": 1972,
+    "genre": "Glam Rock",
+    "albumTitle": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
+  },
+  {
+    "id": 12,
+    "rank": 39,
+    "artist": "Talking Heads",
+    "releaseYear": 1980,
+    "genre": "New Wave",
+    "albumTitle": "Remain in Light"
+  },
+  {
+    "id": 13,
+    "rank": 38,
+    "artist": "Bob Dylan",
+    "releaseYear": 1966,
+    "genre": "Folk Rock",
+    "albumTitle": "Blonde on Blonde"
+  },
+  {
+    "id": 14,
+    "rank": 37,
+    "artist": "Dr. Dre",
+    "releaseYear": 1992,
+    "genre": "Hip-Hop",
+    "albumTitle": "The Chronic"
+  },
+  {
+    "id": 15,
+    "rank": 36,
+    "artist": "Michael Jackson",
+    "releaseYear": 1979,
+    "genre": "R&B",
+    "albumTitle": "Off the Wall"
+  },
+  {
+    "id": 16,
+    "rank": 35,
+    "artist": "The Beatles",
+    "releaseYear": 1965,
+    "genre": "Rock",
+    "albumTitle": "Rubber Soul"
+  },
+  {
+    "id": 17,
+    "rank": 34,
+    "artist": "Stevie Wonder",
+    "releaseYear": 1973,
+    "genre": "Soul",
+    "albumTitle": "Innervisions"
+  },
+  {
+    "id": 18,
+    "rank": 33,
+    "artist": "Amy Winehouse",
+    "releaseYear": 2006,
+    "genre": "Soul",
+    "albumTitle": "Back to Black"
+  },
+  {
+    "id": 19,
+    "rank": 32,
+    "artist": "Beyoncé",
+    "releaseYear": 2016,
+    "genre": "Pop",
+    "albumTitle": "Lemonade"
+  },
+  {
+    "id": 20,
+    "rank": 31,
+    "artist": "Miles Davis",
+    "releaseYear": 1959,
+    "genre": "Jazz",
+    "albumTitle": "Kind of Blue"
+  },
+  {
+    "id": 21,
+    "rank": 30,
+    "artist": "Jimi Hendrix",
+    "releaseYear": 1967,
+    "genre": "Psychedelic Rock",
+    "albumTitle": "Are You Experienced"
+  },
+  {
+    "id": 22,
+    "rank": 29,
+    "artist": "The Beatles",
+    "releaseYear": 1968,
+    "genre": "Rock",
+    "albumTitle": "White Album"
+  },
+  {
+    "id": 23,
+    "rank": 28,
+    "artist": "D’Angelo",
+    "releaseYear": 2000,
+    "genre": "Neo-Soul",
+    "albumTitle": "Voodoo"
+  },
+  {
+    "id": 24,
+    "rank": 27,
+    "artist": "Wu-Tang Clan",
+    "releaseYear": 1993,
+    "genre": "Hip-Hop",
+    "albumTitle": "Enter the Wu-Tang(36 Chambers)"
+  },
+  {
+    "id": 25,
+    "rank": 26,
+    "artist": "Patti Smith",
+    "releaseYear": 1975,
+    "genre": "Punk Rock",
+    "albumTitle": "Horses"
+  },
+  {
+    "id": 26,
+    "rank": 25,
+    "artist": "Carole King",
+    "releaseYear": 1971,
+    "genre": "Singer-Songwriter",
+    "albumTitle": "Tapestry"
+  },
+  {
+    "id": 27,
+    "rank": 24,
+    "artist": "The Beatles",
+    "releaseYear": 1967,
+    "genre": "Psychedelic Rock",
+    "albumTitle": "Sgt. Pepper’s Lonely Hearts Club Band"
+  },
+  {
+    "id": 28,
+    "rank": 23,
+    "artist": "The Velvet Underground",
+    "releaseYear": 1967,
+    "genre": "Art Rock",
+    "albumTitle": "The Velvet Underground and Nico"
+  },
+  {
+    "id": 29,
+    "rank": 22,
+    "artist": "The Notorious B.I.G.",
+    "releaseYear": 1994,
+    "genre": "Hip-Hop",
+    "albumTitle": "Ready to Die"
+  },
+  {
+    "id": 30,
+    "rank": 21,
+    "artist": "Bruce Springsteen",
+    "releaseYear": 1975,
+    "genre": "Rock",
+    "albumTitle": "Born to Run"
+  },
+  {
+    "id": 31,
+    "rank": 20,
+    "artist": "Radiohead",
+    "releaseYear": 2000,
+    "genre": "Electronic Rock",
+    "albumTitle": "Kid A"
+  },
+  {
+    "id": 32,
+    "rank": 19,
+    "artist": "Kendrick Lamar",
+    "releaseYear": 2015,
+    "genre": "Hip-Hop",
+    "albumTitle": "To Pimp a Butterfly"
+  },
+  {
+    "id": 33,
+    "rank": 18,
+    "artist": "Bob Dylan",
+    "releaseYear": 1965,
+    "genre": "Rock",
+    "albumTitle": "Highway 61 Revisited"
+  },
+  {
+    "id": 34,
+    "rank": 17,
+    "artist": "Kanye West",
+    "releaseYear": 2010,
+    "genre": "Hip-Hop",
+    "albumTitle": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "id": 35,
+    "rank": 16,
+    "artist": "The Clash",
+    "releaseYear": 1979,
+    "genre": "Punk Rock",
+    "albumTitle": "London Calling"
+  },
+  {
+    "id": 36,
+    "rank": 15,
+    "artist": "Public Enemy",
+    "releaseYear": 1988,
+    "genre": "Hip-Hop",
+    "albumTitle": "It Takes a Nation of Millions to Hold Us Back"
+  },
+  {
+    "id": 37,
+    "rank": 14,
+    "artist": "The Rolling Stones",
+    "releaseYear": 1972,
+    "genre": "Rock",
+    "albumTitle": "Exile on Main Street"
+  },
+  {
+    "id": 38,
+    "rank": 13,
+    "artist": "Aretha Franklin",
+    "releaseYear": 1967,
+    "genre": "Soul",
+    "albumTitle": "I Never Loved a Man the Way I Love You"
+  },
+  {
+    "id": 39,
+    "rank": 12,
+    "artist": "Michael Jackson",
+    "releaseYear": 1982,
+    "genre": "Pop",
+    "albumTitle": "Thriller"
+  },
+  {
+    "id": 40,
+    "rank": 11,
+    "artist": "The Beatles",
+    "releaseYear": 1966,
+    "genre": "Psychedelic Rock",
+    "albumTitle": "Revolver"
+  },
+  {
+    "id": 41,
+    "rank": 10,
+    "artist": "Lauryn Hill",
+    "releaseYear": 1998,
+    "genre": "R&B",
+    "albumTitle": "The Miseducation of Lauryn Hill"
+  },
+  {
+    "id": 42,
+    "rank": 9,
+    "artist": "Bob Dylan",
+    "releaseYear": 1975,
+    "genre": "Folk Rock",
+    "albumTitle": "Blood on the Tracks"
+  },
+  {
+    "id": 43,
+    "rank": 8,
+    "artist": "Prince and the Revolution",
+    "releaseYear": 1984,
+    "genre": "Pop",
+    "albumTitle": "Purple Rain"
+  },
+  {
+    "id": 44,
+    "rank": 7,
+    "artist": "Fleetwood Mac",
+    "releaseYear": 1977,
+    "genre": "Pop Rock",
+    "albumTitle": "Rumours"
+  },
+  {
+    "id": 45,
+    "rank": 6,
+    "artist": "Nirvana",
+    "releaseYear": 1991,
+    "genre": "Grunge",
+    "albumTitle": "Nevermind"
+  },
+  {
+    "id": 46,
+    "rank": 5,
+    "artist": "The Beatles",
+    "releaseYear": 1969,
+    "genre": "Rock",
+    "albumTitle": "Abbey Road"
+  },
+  {
+    "id": 47,
+    "rank": 4,
+    "artist": "Stevie Wonder",
+    "releaseYear": 1976,
+    "genre": "Soul",
+    "albumTitle": "Songs in the Key of Life"
+  },
+  {
+    "id": 48,
+    "rank": 3,
+    "artist": "Joni Mitchell",
+    "releaseYear": 1971,
+    "genre": "Folk Rock",
+    "albumTitle": "Blue"
+  },
+  {
+    "id": 49,
+    "rank": 2,
+    "artist": "The Beach Boys",
+    "releaseYear": 1966,
+    "genre": "Pop Rock",
+    "albumTitle": "Pet Sounds"
+  },
+  {
+    "id": 50,
+    "rank": 1,
+    "artist": "Marvin Gaye",
+    "releaseYear": 1971,
+    "genre": "Soul",
+    "albumTitle": "What’s Going On"
+  }
+]
