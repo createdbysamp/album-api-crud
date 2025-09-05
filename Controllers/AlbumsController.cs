@@ -12,7 +12,7 @@ namespace AlbumsApiCrud.Controllers;
 public class AlbumsController : ControllerBase
 {
     // created mutable in-memory list
-    private static List<Album> _albums = Album.GetAlbums();
+    // private static List<Album> _albums = Album.GetAlbums();
 
     // READ ENDPOINTS (GET)
 

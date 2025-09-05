@@ -1,4 +1,4 @@
-namespace AlbumsApiCrud.Classes;
+namespace AlbumsApiCrud.Models;
 
 public class Album
 {
@@ -9,6 +9,9 @@ public class Album
     public string? Genre { get; set; }
     public string? AlbumTitle { get; set; }
 
+    public DateTime CreatedAt { get; set; } = DateTime.Now;
+    public DateTime UpdatedAt { get; set; } = DateTime.Now;
+
     public override string ToString()
     {
         return $@"
@@ -18,13 +21,5 @@ ReleaseYear: {ReleaseYear:yyyy}
 Artist: {Artist}
 Genre: {Genre}
 Rank: {Rank}";
-    }
-
-    public static List<Album> GetAlbums()
-    {
-        // load album data from the JSON file on startup
-        string filePath = "Data/albums.json";
-        return Serializer.DeserializeFromFile<List<Album>>(filePath) ?? [];
-        // returns deserialized data
     }
 }
