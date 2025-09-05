@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlbumsApiCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b2e0efba572dc9838ed8ec6c603ee1c40abe092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b122257daa7814531993b4d66f4989d6cc47449")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlbumsApiCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlbumsApiCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
