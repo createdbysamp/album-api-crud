@@ -1,10 +1,24 @@
+using AlbumsApiCrud.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// connection string variable
+var connectionString = builder.Configuration.GetConnectionString("MySqlConnection");
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+
+// Db services
+builder.Services.AddDbContext<AlbumContext>(
+    (options) =>
+    {
+        options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+    }
+);
 
 var app = builder.Build();
 
